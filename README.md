@@ -1,8 +1,9 @@
 # Furnitures-website
-##Tools:
+## Tools:
 1. HTML
 2. CSS
 3. JavaScript
 4.Contentful
 
-##URL:
+## URL:
+https://furnitures-website.netlify.app/
